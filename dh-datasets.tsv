@@ -2,7 +2,7 @@ Resource	Description	URL
 Humanities Data	A catalog for all kinds of datasets DH researchers might find useful.	http://humanitiesdata.com
 Magazine of Early American Datasets (MEAD)	Datasets created primarily by historians	https://repository.upenn.edu/mead/
 Chronicling America: Historic American Newspapers	Library of Congress effort to digitize and OCR a large number of newspapers; includes an API; OCR likely to be spotty.	https://chroniclingamerica.loc.gov/about/
-BBC Datasets	In their own words, "Two news article datasets, originating from BBC News, provided for use as benchmarks for machine learning research."	http://mlg.ucd.ie/datasets/bbc.html
+BBC Datasets	In their own words, 'Two news article datasets, originating from BBC News, provided for use as benchmarks for machine learning research.'	http://mlg.ucd.ie/datasets/bbc.html
 Facebook Children Stories Dataset	1.6 GB of children's story drawn from Project Gutenberg and used in Facebook machine learning algorithms	https://venturebeat.com/2016/02/18/facebook-releases-1-6gb-data-set-of-childrens-stories-for-training-its-ai/
 Television Explorer: Television News As Data	An advanced front-end search engine and graph generator (similar to Google ngrams) for the Internet Archive's Television News Archive. Generates some CSV files, including what appears to be kwic results for searches. Quality of transcript OCR varies.
 Collected TCP Texts	
