@@ -1,0 +1,14 @@
+Resource	Description	URL
+Humanities Data	A catalog for all kinds of datasets DH researchers might find useful.	http://humanitiesdata.com
+Magazine of Early American Datasets (MEAD)	Datasets created primarily by historians	https://repository.upenn.edu/mead/
+Chronicling America: Historic American Newspapers	Library of Congress effort to digitize and OCR a large number of newspapers; includes an API; OCR likely to be spotty.	https://chroniclingamerica.loc.gov/about/
+BBC Datasets	In their own words, "Two news article datasets, originating from BBC News, provided for use as benchmarks for machine learning research."	http://mlg.ucd.ie/datasets/bbc.html
+Facebook Children Stories Dataset	1.6 GB of children's story drawn from Project Gutenberg and used in Facebook machine learning algorithms	https://venturebeat.com/2016/02/18/facebook-releases-1-6gb-data-set-of-childrens-stories-for-training-its-ai/
+Television Explorer: Television News As Data	An advanced front-end search engine and graph generator (similar to Google ngrams) for the Internet Archive's Television News Archive. Generates some CSV files, including what appears to be kwic results for searches. Quality of transcript OCR varies.
+Collected TCP Texts	
+John Levin's collections of English historical texts	Brings together various Text Creation Partnership archives (early-modern texts) in one place. Source info: as of 2017, Levin's site says he is a history PhD at Sussex	https://github.com/Anterotesis/historical-texts
+Global Open Data Index	Many categories of governmental data, from governments across the world. As one might expect, geared toward numeric rather than literary data. Can be difficult to capture what one needs, because the datasets are linked, not stored locally.	https://index.okfn.org/dataset/
+OCC: Oxford Children’s Corpus	An "English text corpus including language that children likely read (fiction, non-fiction) or texts written by children themselves." *Note: Permission required for access.	https://www.sketchengine.co.uk/oxford-childrens-corpus/
+Text Mine Friendly Library Databases (behind paywalls)	Numerous vendors are allowing text-mining access to their databases. It is possible to get a decent amount of newspaper articles from Expanded Academic ASAP and Lexis Nexis, for example.	Since these take a bit of manipulating to get working correctly, they really need their own write ups.
+
+
